@@ -578,6 +578,10 @@ header
     margin-top: 0; /* ? */
     
 }
+.footer p
+{
+    text-align: center;
+}
 ul.ftr
 {
     position: relative;
